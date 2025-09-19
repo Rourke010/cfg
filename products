@@ -16,6 +16,12 @@
         "url": "https://www.hsnstore.com/marcas/sport-series/evolate-2-0-whey-isolate-cfm-sin-edulcorantes-2kg-chocolate",
         "reference_text": "EVOLATE 2.0 (WHEY ISOLATE CFM) SIN EDULCORANTES 2Kg CHOCOLATE",
         "target_price": 54
+    },
+    {
+        "name": "EVOBARS PROTEIN BARS",
+        "url": "https://www.hsnstore.com/marcas/sport-series/evobars-protein-bars",
+        "reference_text": "EVOBARS PROTEIN BARS",
+        "target_price": 20
     }
 
 ]
