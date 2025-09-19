@@ -1,0 +1,21 @@
+[
+    {
+        "name": "EVOWHEY PROTEIN 2Kg CHOCOLATE",
+        "url": "https://www.hsnstore.com/marcas/sport-series/evowhey-protein-2kg-chocolate",
+        "reference_text": "EVOWHEY PROTEIN 2Kg CHOCOLATE",
+        "target_price": 32
+    },
+    {
+        "name": "EVOLATE 2.0 (WHEY ISOLATE CFM) 2Kg CHOCOLATE",
+        "url": "https://www.hsnstore.com/marcas/sport-series/evolate-2-0-whey-isolate-cfm-2kg-chocolate",
+        "reference_text": "EVOLATE 2.0 (WHEY ISOLATE CFM) 2Kg CHOCOLATE",
+        "target_price": 58
+    },
+    {
+        "name": "EVOLATE 2.0 (WHEY ISOLATE CFM) SIN EDULCORANTES 2Kg CHOCOLATE",
+        "url": "https://www.hsnstore.com/marcas/sport-series/evolate-2-0-whey-isolate-cfm-sin-edulcorantes-2kg-chocolate",
+        "reference_text": "EVOLATE 2.0 (WHEY ISOLATE CFM) SIN EDULCORANTES 2Kg CHOCOLATE",
+        "target_price": 54
+    }
+
+]
